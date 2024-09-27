@@ -1,5 +1,5 @@
-Simulação Banco em Java
-projeto feito a fim de estudo em Java
+Simulação de Banco em Java
+projeto feito a fim de estudo
 
 
-utiliza de Scanner no terminal para responder aos comandos
+Utiliza de Scanner no terminal para responder aos comandos
