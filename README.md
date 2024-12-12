@@ -1,18 +1,19 @@
-# Simulação de Banco em Java
+# 🏦 Simulação de Banco em Java
 
-## Descrição:
-projeto para fins de estudo na linguagem, simula um sistema de depositar/sacar dinheiro
-**não salva qualquer dado inserido no programa**
+## ✏️ Descrição:
+- Projeto para fins de estudo na linguagem, simula um sistema de depositar/sacar dinheiro
+- Utiliza de Scanner no terminal para responder aos comandos
+- <ins>**Não salva qualquer dado inserido no programa**</ins>
 
-## Funcionalidades:
+## ❗ Necessário:
+```import java.util.Scanner;```
+
+## ⚙️ Funcionalidades:
 - Criar Usuário(s)
 - Simula depositar dinheiro 
 - Simula sacar dinheiro
 
-## Imports:
-import java.util.Scanner;
-
-## Outros arquivos
+## 📁 Outros arquivos:
 [Atualizações do projeto](CHANGELOG.md)
 
-Utiliza de Scanner no terminal para responder aos comandos
+
